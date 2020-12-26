@@ -2,6 +2,9 @@
 
 Auto clicker to play Train of Thought (game by Lumosity)
 
+Video: https://www.youtube.com/watch?v=M28oOQRTDoI
+
+
 Caution: This software has not been carefully tested. You need coding skills to run the software by yourself. It is only designed to work with the smartphone version of the game in level 14.
 
 ## Set up
